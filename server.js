@@ -47,6 +47,10 @@ app.get("/weather", (req, res) => {
   }
 });
 
+app.get("/", (req, res) => {
+  res.send("welcome");
+});
+
 // @ts-ignore
 app.listen(port, () => {
   console.log(`You are lessening to port ${port}`);
