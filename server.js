@@ -83,8 +83,8 @@ app.get("/movie", (req, res) => {
           )
         );
       });
-      console.log(cityMovie);
-      res.send(response.data);
+      // console.log(cityMovie);
+      res.send(cityMovie);
     })
     .catch((err) => {
       res
