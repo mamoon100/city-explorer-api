@@ -30,6 +30,18 @@ Finish time: **\_**
 
 Actual time needed to complete: **\_**
 
+---
+
+Name of feature: Include weather server
+
+Estimate of time needed to complete: 2 Hours
+
+Start time: 15:00
+
+Finish time: \_\_\_\_\_\_
+
+Actual time needed to complete: **\_**
+
 ## Credit and Collaborations
 
 My Collaborator Partner for Lab 7 : Anas Abu Saif
