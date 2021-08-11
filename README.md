@@ -42,6 +42,18 @@ Finish time: \_\_\_\_\_\_
 
 Actual time needed to complete: **\_**
 
+---
+
+Name of feature: Factoring The server.js and using model and controller
+
+Estimate of time needed to complete: 2 Hours
+
+Start time: 14:15
+
+Finish time: **\_**
+
+Actual time needed to complete: **\_**
+
 ## Credit and Collaborations
 
 My Collaborator Partner for Lab 7 : Anas Abu Saif
