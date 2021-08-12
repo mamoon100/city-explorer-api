@@ -6,8 +6,8 @@ const cors = require("cors");
 const data = require("./data/weather.json");
 const axios = require("axios");
 require("dotenv").config();
-const movie = require("./controller/movie.controller");
-const weather = require("./controller/weather.controller");
+const movie = require("./modules/controllers/movie.controller");
+const weather = require("./modules/controllers/weather.controller");
 let port = process.env.PORT;
 app.use(cors());
 
